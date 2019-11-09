@@ -1,5 +1,5 @@
 {
-    "python.pythonPath": "/home/loki/Projects/mess_management_system/mess_virtaul_env/bin/python",
+    "python.pythonPath": "/home/loki/Projects/mms/mess_venv/bin/python",
     "python.linting.pylintEnabled": true,
     "python.linting.enabled": true
 }
