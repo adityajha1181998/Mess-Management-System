@@ -113,3 +113,5 @@ class feedback(models.Model):
     complaint = models.TextField()
     status = models.CharField(max_length=6)
     date = models.DateTimeField()
+
+    
