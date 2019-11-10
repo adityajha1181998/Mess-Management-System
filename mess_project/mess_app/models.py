@@ -2,7 +2,6 @@ from django.db import models
 
 # Create your models here.
 
-
 class mess(models.Model):
     mess_id = models.IntegerField()
     mess_name = models.CharField('Mess Name',max_length=50,blank=False)
